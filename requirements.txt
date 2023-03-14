@@ -1,0 +1,9 @@
+asgiref==3.6.0
+backports.zoneinfo==0.2.1
+Django==4.1.7
+dnspython==2.3.0
+filelock==3.9.1
+idna==3.4
+py3-validate-email @ git+https://gitea.ksol.io/karolyi/py3-validate-email@32c8f4cdfaba4c7e7fc81405a023c849a9268859
+sqlparse==0.4.3
+typing-extensions==4.5.0
