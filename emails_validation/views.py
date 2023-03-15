@@ -20,7 +20,7 @@ def valite_email_view(request):
                     check_format=True,
                     check_dns=True,
                     dns_timeout=10,
-                    check_smtp=True,
+                    # check_smtp=True,
                     smtp_timeout=10,
                     smtp_skip_tls=False,
                     smtp_tls_context=None,
